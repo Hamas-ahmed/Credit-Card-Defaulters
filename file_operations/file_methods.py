@@ -8,7 +8,6 @@ class File_Operation:
                 This class shall be used to save the model after training
                 and load the saved model for prediction.
 
-                Written By: iNeuron Intelligence
                 Version: 1.0
                 Revisions: None
 
@@ -25,7 +24,7 @@ class File_Operation:
             Outcome: File gets saved
             On Failure: Raise Exception
 
-            Written By: iNeuron Intelligence
+          
             Version: 1.0
             Revisions: None
 """
@@ -57,7 +56,6 @@ class File_Operation:
                     Output: The Model file loaded in memory
                     On Failure: Raise Exception
 
-                    Written By: iNeuron Intelligence
                     Version: 1.0
                     Revisions: None
         """
@@ -82,8 +80,6 @@ class File_Operation:
                             Description: Select the correct model based on cluster number
                             Output: The Model file
                             On Failure: Raise Exception
-
-                            Written By: iNeuron Intelligence
                             Version: 1.0
                             Revisions: None
                 """
